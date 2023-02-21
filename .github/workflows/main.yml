@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: calvincc/clock:latest
+          tags: calvincc/timer:latest
